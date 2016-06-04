@@ -1,0 +1,61 @@
+---
+title: "BS1808 Logistics & Supply Chain Analytics"
+author: "C.K. Poon, Kane Wu, Chan Baik, Yujia Ren, Siang Lau"
+date: "04 June 2016"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    code_folding: hide
+    theme: spacelab
+    number_sections: yes
+---
+```{r setup_1, include = FALSE}
+# Set knitr options
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(readr)
+library(dplyr)
+library(tidyr)
+library(knitr)
+library(ggplot2)
+
+#Load dataset
+data <- read_csv("data.csv",col_names = TRUE,col_types = NULL,skip=0)
+```
+
+
+# Introduction
+
+
+
+
+# Question 1
+```{r question_1}
+
+
+
+```
+
+
+# Question 2
+
+
+# Question 3
+
+
+# Question 4
+
+
+# Question 5
+
+
+# Question 6
+
+
+# Reference
+* [1] 
+
+* [2] 
+* [3] 
